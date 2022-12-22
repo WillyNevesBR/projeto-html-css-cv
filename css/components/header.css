@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #2c2b2b;
+    border-bottom: 10px solid #ff7300;
+    padding: 10px 20px;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    transition: transform 100ms step-start;
+}
+
+.logo:hover {
+    transform: scale(1.12);
+}
