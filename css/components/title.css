@@ -6,3 +6,10 @@
     /* Sombra no texto */
 
 }
+
+.title.-second  {
+    color: #fff;
+    text-shadow: none;
+    text-align: center;
+
+}
